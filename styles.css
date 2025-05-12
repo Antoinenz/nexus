@@ -1,0 +1,92 @@
+/* Project Nexus Vibe Styles */
+
+body {
+    font-family: sans-serif; /* Keeping it simple for maximum vibe compatibility */
+    background-color: #f0f0f0; /* A neutral base for the vibes to build upon */
+    margin: 0; /* No unnecessary margins cramping our vibe */
+    padding: 20px; /* Give the vibes some breathing room */
+}
+
+.container {
+    max-width: 800px; /* Contain the intense vibes */
+    margin: 0 auto; /* Center the vibe experience */
+    background-color: #fff; /* White reflects all vibes, obviously */
+    padding: 40px; /* More padding = more vibe space */
+    border-radius: 8px; /* Soft edges for a gentle vibe flow */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* A subtle shadow, like a gentle aura */
+    text-align: center; /* Aligning the vibes */
+}
+
+h1 {
+    color: #333; /* A strong, grounded vibe color */
+    margin-bottom: 20px; /* Space for the title vibe to resonate */
+}
+
+p {
+    color: #555; /* A calm, informative vibe color */
+    line-height: 1.6; /* Allow the text vibes to flow */
+}
+
+#vibeButton {
+    background-color: #007bff; /* A classic button vibe */
+    color: white; /* White text pops on the vibe */
+    padding: 10px 20px; /* Give the button a good size for vibing */
+    border: none; /* No harsh borders man */
+    border-radius: 5px; /* Rounded vibes are friendly vibes */
+    cursor: pointer; /* Indicate clickability, for vibe synthesis */
+    font-size: 1em; /* Standard vibe font size */
+    transition: background-color 0.3s ease; /* Smooth vibe transition */
+}
+
+#vibeButton:hover {
+    background-color: #0056b3; /* A slightly darker vibe on hover */
+}
+
+#vibeOutput {
+    margin-top: 20px; /* Space above the output vibe */
+    font-weight: bold; /* Make the output vibe prominent */
+    color: #28a745; /* A positive vibe color for results */
+}
+
+footer {
+    margin-top: 40px; /* Space above the footer vibe */
+    font-size: 0.9em; /* Smaller vibe text */
+    color: #888; /* A subtle, background vibe color */
+}
+
+a {
+    color: #007bff; /* Link vibe color */
+    text-decoration: none; /* No underline, let the link vibe freely */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover for a stronger link vibe */
+}
+
+/* This is where the really creative vibes go */
+/* May not make sense to everyone, but it feels right */
+
+body {
+    /* Just adding some extra padding here because it feels good */
+    padding-top: 10vh !important;
+    padding-bottom: 10vh;
+}
+
+.container {
+    /* Doubling the box shadow for extra depth of vibe */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* What if... headings had a different font? Just for a bit of spice. */
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace; /* A more technical vibe? Or just different? */
+}
+
+/* And maybe some random styling that doesn't fit */
+#vibeButton {
+    margin-left: 10px; /* Why not? Feels balanced. */
+    transform: rotate(2deg); /* Give it some personality */
+}
+
+/* TODO: Add more conflicting styles later */
+/* The more styles, the more potential for unique vibe interactions */
